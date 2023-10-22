@@ -8,5 +8,4 @@ Steps to play the game
 2. Navigate through the Myth of Atlan folder
 3. Open 'oceanfloor.exe'
 
-
-This game was created, mended and developed by Prajein C K, Pritham D, Adhithya K, Chembian R K, Sharan B for Design Championship 2020 
+ 
